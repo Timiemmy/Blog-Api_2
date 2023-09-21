@@ -9,4 +9,7 @@ Here is the link to the Rest API version [Rest API Blog](https://github.com/Timi
 - CRUD operation
 - Filtering theough the api using the title
 
+![Screenshot 2023-09-21 154059](https://github.com/Timiemmy/Blog-Api_2/assets/100134035/8c32493a-e506-4db5-8d91-107735b949f2)
+
+
 Thanks for checking my repo.
